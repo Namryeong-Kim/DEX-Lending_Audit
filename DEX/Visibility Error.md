@@ -91,7 +91,7 @@ contract DexTest is Test {
 
 ### 파급력
 
-- Critical → 공격자는 mint 함수를 통해 LP token을 발행하여, liquidity를 pool에 공급하지 않더라도 pool에 있는 토큰을 모두 remove할 수 있음
+- Critical → 공격자는 mint 함수를 통해 LP token을 발행하여, liquidity를 pool에 공급하지 않더라도 pool에 있는 토큰을 모두 뺄 수 있음
 
 ### 해결방안
 
