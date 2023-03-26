@@ -82,8 +82,8 @@ contract DexTest is Test {
     }
 }
 ```
+<img width="432" alt="스크린샷 2023-03-26 오후 8 37 22" src="https://user-images.githubusercontent.com/127647051/227773104-9f0d829b-2cbd-4c8a-b556-4f3b75a8135c.png">
 
-![스크린샷 2023-03-26 오후 6.42.32.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eaf7d4ba-fe73-4bd8-a897-43d8e471cc8d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-26_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.42.32.png)
 
 - player1, player2가 pool에 liquidity를 공급하였을때, player3가 100 ether를 mint하여 해당 LP token만큼 removeLiquidity할 수 있음
 
