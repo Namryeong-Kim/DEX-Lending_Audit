@@ -1,4 +1,4 @@
-# Problem - Visibility
+# Problem - Visibility Error
 
 ## 김영운, 김지우, 구민재
 
