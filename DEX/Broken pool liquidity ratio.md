@@ -1,4 +1,4 @@
-#Problem - Broken pool liquidity ratio
+# Problem - Broken pool liquidity ratio
 ## 최영현
 
 ### 설명
