@@ -1,4 +1,4 @@
-# Problem - Broken pool liquidity ratio
+# Problem - Broken Pool Liquidity Ratio
 ## 최영현
 
 ### 설명
@@ -111,7 +111,7 @@ function testAddLiquidity() external {
 ```
 <img width="541" alt="스크린샷 2023-03-26 오후 8 42 39" src="https://user-images.githubusercontent.com/127647051/227773331-89307783-9a33-4c6a-8486-0caa87ce81e1.png">
 
-- 더 많이 add한 token에 대해 더 적은 양이 remove됨
+- 더 많이 add한 token에 대해 더 적은 양이 빠짐
 
 ### 파급력
 
@@ -265,7 +265,7 @@ function testAddLiquidity() external {
 
 ![스크린샷 2023-03-26 오후 6.01.34.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41684cbe-271b-46e5-b41d-667ebc67d99f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-26_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.01.34.png)
 
-- 더 많이 add한 token에 대해 더 적은 양이 remove됨
+- 더 많이 add한 token에 대해 더 적은 양이 
 
 ### 파급력
 
@@ -374,7 +374,7 @@ function testAddLiquidity() external {
 
 <img width="572" alt="스크린샷 2023-03-26 오후 8 47 19" src="https://user-images.githubusercontent.com/127647051/227773550-ea9958ff-df3e-40a1-bffe-8f0efefb9fcb.png">
 
-- 더 많이 add한 token에 대해 더 적은 양이 remove됨
+- 더 많이 add한 token에 대해 더 적은 양이 빠짐
 
 ### 파급력
 
