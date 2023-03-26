@@ -93,4 +93,4 @@ contract DexTest is Test {
 
 ### 해결방안
 
-- transfer 함수의 visibility를 public → internal/private로 변경하기
+- transfer 함수의 visibility를 public → internal로 변경하기 또는 onlyOwner만 호출할 수 있도록 변경
