@@ -97,5 +97,6 @@ function testSwap2() external {
     
 
 ### 해결방안
-
-- 함수에서 사용되는 xBalance, yBalance 모두 tokenX.balanceOf(address(this)), tokenY.balanceOf(address(this))로 업데이트하기
+- 각 함수에서 동일한 업데이트 방식 사용하기
+	- 함수에서 사용되는 xBalance, yBalance 모두 tokenX.balanceOf(address(this)), tokenY.balanceOf(address(this))로 업데이트하기
+	- 또는, swap에서 balances[address(tokenX)], balances[address(tokenY)] 업데이트하기
