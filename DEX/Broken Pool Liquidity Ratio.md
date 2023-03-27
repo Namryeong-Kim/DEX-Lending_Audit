@@ -77,7 +77,6 @@ if(totalSupply_ ==0 ){ //if first supply
         LPTokenAmount = _sqrt(tokenXAmount*tokenYAmount);
     }
     else{// calculate over the before
-        //pool 비율 깨짐
         liqX = _mul(tokenXAmount ,totalSupply_)/amountX;
         liqY = _mul(tokenYAmount ,totalSupply_)/amountY;
         LPTokenAmount = (liqX<liqY) ? liqX:liqY; 
